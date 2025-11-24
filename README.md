@@ -2,6 +2,7 @@
 
 - 📖 Sou estudante do ensino médio e atualmente estou aprendendo Java.
 - 🤓 Cursando técnico em Desenvolvimento de Sistemas.
+- 🐬 Conhecimento intermediário em MySql e banco de dados.
 - 🤔 Tenho interesse em aprender JavaScript e HTML.
 - 💡 Estou aberto para qualquer sugestão e dica que venha melhorar meu conhecimento.
 - 📫 Email: nathanbatistadasilva50@gmail.com
