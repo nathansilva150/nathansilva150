@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00208B&height=120&section=header"/>
+
 ## Olá! Me chamo Nathan Batista da Silva! Sinta-se à vontade no meu perfil. 👋
 
 - 📖 Sou estudante do ensino médio e atualmente estou aprendendo Java.
@@ -20,3 +22,14 @@
   <a href="https://instagram.com/n_than16" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   
 </div>
+
+<br>
+
+<br>
+
+![Snake animation](https://github.com/brendongabriel/brendongabriel/blob/output/github-contribution-grid-snake.svg)
+<br>
+
+</div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00208B&height=120&section=footer"/>
