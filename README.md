@@ -8,6 +8,9 @@
 - 🤔 Tenho interesse em aprender JavaScript e HTML.
 - 💡 Estou aberto para qualquer sugestão e dica que venha melhorar meu conhecimento.
 
+![](https://github-readme-stats.vercel.app/api?username=nathansilva150&theme=monokai&hide_border=true&include_all_commits=true&count_private=false)
+![](https://nirzak-streak-stats.vercel.app/?user=nathansilva150&theme=monokai&hide_border=true)
+
 ##
 <div align="center">
 
