@@ -7,9 +7,11 @@
 - 🐬 Conhecimento intermediário em MySql e banco de dados.
 - 🤔 Tenho interesse em aprender JavaScript e HTML.
 - 💡 Estou aberto para qualquer sugestão e dica que venha melhorar meu conhecimento.
-
+  
 ![](https://github-readme-stats.vercel.app/api?username=nathansilva150&theme=monokai&hide_border=true&include_all_commits=true&count_private=false)
 ![](https://nirzak-streak-stats.vercel.app/?user=nathansilva150&theme=monokai&hide_border=true)
+<img width="220" height="220" alt="ellie" src="https://github.com/user-attachments/assets/231a8efd-dafe-4927-a547-c3d0e194aee0" />
+
 
 ##
 <div align="center">
