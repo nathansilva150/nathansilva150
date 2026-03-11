@@ -11,7 +11,7 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=nathansilva150&theme=monokai&hide_border=true&include_all_commits=true&count_private=false)
 ![](https://nirzak-streak-stats.vercel.app/?user=nathansilva150&theme=monokai&hide_border=true)
-<img width="220" height="220" alt="ellie" src="https://github.com/user-attachments/assets/231a8efd-dafe-4927-a547-c3d0e194aee0" />
+![IMG_0564](https://github.com/user-attachments/assets/a5c1df98-2d77-4194-bc80-29f4f400fdb0)
 
 ##
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nathansilva150&bg_color=0d1117&color=DCE8FC&line=00208B&point=DCE8FC&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
