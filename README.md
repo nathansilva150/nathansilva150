@@ -32,7 +32,7 @@
 
 ### Spotify Playing 🎧
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31jduwbaru6dvakjhwywzjfkc5om&cover_image=true&theme=spotify-embed&show_offline=true&background_color=0e0c0c&interchange=true&profanity=false&bar_color=170c0e&bar_color_cover=false&mode=dark)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31sr6a7txdumgotekao6b42fyifa&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=false&mode=dark)](https://spotify-github-profile.kittinanx.com/api/view?uid=31sr6a7txdumgotekao6b42fyifa&redirect=true)
 
 ---
 
