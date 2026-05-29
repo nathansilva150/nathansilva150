@@ -1,6 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00208B&height=120&section=header"/>
 
-### Olá! Me chamo Nathan Batista da Silva! Sinta-se à vontade no meu perfil. 👋
+# Olá! Me chamo Nathan Batista da Silva!
+### Sinta-se à vontade no meu perfil. 👋
 
 - 📖 Sou estudante do ensino médio e atualmente estou aprendendo Java.
 - 🤓 Cursando técnico em Desenvolvimento de Sistemas.
